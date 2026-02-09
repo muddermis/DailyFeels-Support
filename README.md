@@ -1,4 +1,4 @@
-muddermis@mac DailyFeels % cat /Users/muddermis/Desktop/DailyFeels/DailyFeels/README-Support.md
+mudder.mis@icloud.com DailyFeels % cat /Users/muddermis/Desktop/DailyFeels/DailyFeels/README-Support.md
 # DailyFeels Support
 
 Welcome to the DailyFeels support page. Here you'll find information about the app, our privacy practices, and how to get help.
