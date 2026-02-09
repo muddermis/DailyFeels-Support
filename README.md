@@ -180,4 +180,4 @@ If you need help or have feedback, please:
 ---
 
 © 2026 DailyFeels. All rights reserved.
-muddermis@mac DailyFeels % # DailyFeels-Support
+mudder.mis@icloud.com DailyFeels % # DailyFeels-Support
